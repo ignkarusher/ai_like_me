@@ -1,4 +1,4 @@
 .idea/*
 environment_variables.env
 LLM_train_embedding
-training_material
+training_material/*
